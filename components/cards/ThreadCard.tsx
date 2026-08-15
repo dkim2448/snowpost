@@ -107,6 +107,9 @@ const ThreadCard = ({
 						</div>
 					</div>
 				</div>
+
+				{/* TODO: delete thread */}
+				{/* TODO: show comment logos */}
 			</div>
 		</article>
 	);
