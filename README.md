@@ -2,7 +2,7 @@
 
 ### [try it out here](https://snowpost.vercel.app/)
 
-<img src="/assets/screenshot.png">
+<img src="/public/screenshot.png">
 
 ---
 
